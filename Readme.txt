@@ -1,3 +1,8 @@
+Steps to excecute:
+	1.Pull the repo from github https://github.com/Prasanna616/Python.git
+	2.open python file and run.(requried curser library)
+	3.You can add additional typing lines in text file.
+
 --What is Curser?
 The curses library supplies a terminal-independent screen-painting and keyboard-handling facility for text-based terminals; such terminals include VT100s, the Linux console, and 
 the simulated terminal provided by various programs.
